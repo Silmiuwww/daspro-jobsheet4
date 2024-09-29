@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Usia {
+public class Usia12 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int usia;
